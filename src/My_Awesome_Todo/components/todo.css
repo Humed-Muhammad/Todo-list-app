@@ -1,0 +1,9 @@
+.btn:hover {
+  background: red !important;
+  color: #ffffff !important;
+}
+.add-btn:hover {
+  background: blueviolet !important;
+  color: #ffffff !important;
+  border: none !important;
+}
